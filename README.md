@@ -1,6 +1,6 @@
 <a name="read-me-template" />
 
-# Next.js 12 Boilerplate
+# 📦 Next.js 12 Boilerplate
 
 > This is a readme from next.js 12 boilerplate.
 
@@ -10,7 +10,7 @@
 
 Boilerplate to help developers to have a fast project configuration using the most recent next version and some tools to improve the developer experience.
 
-### Features
+### 🗂 Features
 
 - 🔥 [Next.js](https://nextjs.org) for Static Site Generator
 - 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com)
@@ -49,17 +49,17 @@ Boilerplate to help developers to have a fast project configuration using the mo
 └── tsconfig.json            # TypeScript configuration
 ```
 
-#### Installation
+#### ✅ Installation
 
 - Clone you project to your machine
 
-#### Install dependencies with yarn
+#### 🚀 Install dependencies with yarn
 
 ```html
 yarn
 ```
 
-#### Using Plop JS
+#### 🎉 Using Plop JS
 
 ```html
 yarn generate
