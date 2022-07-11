@@ -3,11 +3,12 @@
 # Next.js 12 Boilerplate
 
 > This is a readme from next.js 12 boilerplate.
+
 <p align="center">
-    <img src="" width="200" alt="" /> 
+    <img src="https://github.com/jsdeveloperr/nextjs-boilerplate/tree/master/public/assets/git.clone.gif" width="500" alt="Next.js 12 Boilerplate" />
 </p>
 
-Boilerplate to help developers to have a fast project configuration using the most recent next version and some tools to improve the developer experience. 
+Boilerplate to help developers to have a fast project configuration using the most recent next version and some tools to improve the developer experience.
 
 ### Features
 
@@ -26,7 +27,6 @@ Boilerplate to help developers to have a fast project configuration using the mo
 - 💯 Maximize lighthouse score
 - 🔥 SWC instead of babel
 - 🎉 PlopJS and Axios
-
 
 ```
 .
@@ -53,21 +53,21 @@ Boilerplate to help developers to have a fast project configuration using the mo
 
 - Clone you project to your machine
 
-#### Install dependencies with yarn 
+#### Install dependencies with yarn
 
 ```html
-    yarn
+yarn
 ```
 
 #### Using Plop JS
 
 ```html
-    yarn generate 
+yarn generate
 ```
 
 After this, select if you want to create a page or component and set the name.
 
-You can change the templates and settings of generator at path `generators` on project root. 
+You can change the templates and settings of generator at path `generators` on project root.
 
 ---
 
