@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react'
-import About from '../about/index'
+import About from '../../pages/about/index'
 
 describe('<About />', () => {
   it('should render the heading', () => {
