@@ -5,7 +5,7 @@
 > This is a readme from next.js 12 boilerplate.
 
 <p align="center">
-    <img src="https://github.com/jsdeveloperr/nextjs-boilerplate/tree/master/public/assets/git.clone.gif" width="500" alt="Next.js 12 Boilerplate" />
+    <img src="https://github.com/jsdeveloperr/nextjs-boilerplate/blob/master/public/assets/git.clone.gif" width="500" alt="Next.js 12 Boilerplate" />
 </p>
 
 Boilerplate to help developers to have a fast project configuration using the most recent next version and some tools to improve the developer experience.
