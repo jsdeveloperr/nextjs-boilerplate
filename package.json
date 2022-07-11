@@ -1,0 +1,58 @@
+{
+  "name": "nextjs-boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Abdulnasir OLCAN",
+    "url": "https://github.com/jsdeveloperr"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest",
+    "format": "prettier \"./**/*.{ts,tsx}\" --write",
+    "check": "eslint  --ext .ts,.tsx/ --fix",
+    "generate": "yarn plop --plopfile ./generators/plopfile.js",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "^12.2.0",
+    "next-seo": "^5.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "^12.2.0",
+    "@testing-library/dom": "^8.16.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@types/jest": "^28.1.4",
+    "@types/node": "^18.0.3",
+    "@types/react": "^18.0.15",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.12",
+    "eslint": "^8.19.0",
+    "eslint-config-next": "^12.2.2",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "husky": "^8.0.1",
+    "jest": "^28.1.2",
+    "jest-environment-jsdom": "^28.1.2",
+    "lint-staged": "^13.0.3",
+    "plop": "^3.1.1",
+    "postcss": "^8.4.14",
+    "prettier": "^2.7.1",
+    "sass": "^1.53.0",
+    "tailwindcss": "^3.1.4",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
