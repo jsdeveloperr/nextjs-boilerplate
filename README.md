@@ -71,4 +71,8 @@ You can change the templates and settings of generator at path `generators` on p
 
 ---
 
+<p align="center">
+    <img src="https://github.com/jsdeveloperr/nextjs-boilerplate/blob/master/public/assets/lighthouse-score.png" width="600" alt="Next.js 12 Boilerplate Lighthouse Score" />
+</p>
+
 [Back To The Top](#read-me-template)
