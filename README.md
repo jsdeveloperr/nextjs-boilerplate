@@ -5,6 +5,10 @@
 > This is a readme from next.js 12 boilerplate.
 
 <p align="center">
+    <img src="https://github.com/jsdeveloperr/nextjs-boilerplate/blob/master/public/assets/nextjs12-boilerplate.png" width="500" alt="Next.js 12 Boilerplate" />
+</p>
+
+<p align="center">
     <img src="https://github.com/jsdeveloperr/nextjs-boilerplate/blob/master/public/assets/git.clone.gif" width="500" alt="Next.js 12 Boilerplate" />
 </p>
 
