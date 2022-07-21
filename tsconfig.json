@@ -24,6 +24,6 @@
       "@/services/*": ["./services/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "generators/plopfile.js", "routers/routers.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "generators/plopfile.js"],
   "exclude": ["node_modules"]
 }
