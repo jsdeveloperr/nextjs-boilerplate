@@ -14,6 +14,10 @@
 
 Boilerplate to help developers to have a fast project configuration using the most recent next version and some tools to improve the developer experience.
 
+## :rocket: Example
+
+Check our 👉 [example](https://nextjs-12-boilerplate.vercel.app)
+
 ### 🗂 Features
 
 - 🔥 [Next.js](https://nextjs.org) for Static Site Generator

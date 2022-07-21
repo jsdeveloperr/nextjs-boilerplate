@@ -20,9 +20,10 @@
       "@/public/*": ["./public/*"],
       "@/components/*": ["./components/*"],
       "@/styles/*": ["./styles/*"],
-      "@/lib/*": ["./lib/*"]
+      "@/lib/*": ["./lib/*"],
+      "@/services/*": ["./services/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "generators/plopfile.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "generators/plopfile.js", "routers/routers.js"],
   "exclude": ["node_modules"]
 }
